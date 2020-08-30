@@ -9,8 +9,9 @@ div {
   /* Your code here! */
   width: 700px;
   margin: auto;
-  font-family: Helvet
+  font-family: "Helvetica Neue";
   background: white;
+  padding: 30px;
   
 }
 
@@ -18,9 +19,11 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
+  font-size: italic;
 }
